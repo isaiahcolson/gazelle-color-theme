@@ -2,10 +2,28 @@
 	"name": "Gazelle Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		// activityBar
+		"activityBar.background": "#00234260",
+		"activityBar.dropBorder": "#fcd214",
+		"activityBar.foreground": "#f5f7f8",
+		"activityBar.inactiveForeground": "#69757a",
+		"activityBarBadge.background": "#e66f20",
+		"activityBarBadge.foreground": "#f5f7f8",
+		"activityBar.activeBorder": "#f5f7f8",
+		"activityBar.activeFocusBorder": "#00b2f6",
+		// editor
+		"editor.background": "#001e38",
+		// sideBar
+		"sideBar.background": "#0b1e2e",
+		"sideBar.foreground": "#8e999e",
+		"sideBar.border": "#112e47",
+		"sideBar.dropBackground": "#005b9850",
+		"sideBarTitle.foreground": "#fcd214",
+		"sideBarSectionHeader.background": "#0b1e2e",
+		"sideBarSectionHeader.foreground": "#b6bec2",
+		"sideBarSectionHeader.border": "#112e47",
+		// minimap
+		"minimap.background": "#002342"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +34,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#69757a"
 			}
 		},
 		{
@@ -26,16 +44,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
-			}
-		},
-		{
-			"name": "Colors",
-			"scope": [
-				"constant.other.color"
-			],
-			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#fcd214"
 			}
 		},
 		{
@@ -45,7 +54,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				// TODO change this color ⬇
+				"foreground": "#53ff53"
 			}
 		},
 		{
@@ -56,7 +66,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#5ae072"
 			}
 		},
 		{
@@ -76,7 +86,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ed3d9f"
 			}
 		},
 		{
@@ -87,7 +97,9 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#00ff37"
 			}
 		},
 		{
@@ -100,7 +112,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00b6c7"
 			}
 		},
 		{
@@ -109,7 +121,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#2de0c8"
 			}
 		},
 		{
@@ -119,7 +131,9 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -135,7 +149,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#b69df5"
 			}
 		},
 		{
@@ -150,7 +164,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#35bd59"
 			}
 		},
 		{
@@ -159,14 +173,14 @@
 				"entity.name",
 				"support.type",
 				"support.class",
-				"support.orther.namespace.use.php",
+				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#f26552"
 			}
 		},
 		{
@@ -175,7 +189,9 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -189,7 +205,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				// TODO change this color ⬇
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -200,7 +217,9 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -210,7 +229,9 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -220,7 +241,9 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -230,7 +253,9 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -239,7 +264,9 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -250,7 +277,9 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -259,6 +288,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#FFCB6B"
 			}
 		},
@@ -268,6 +298,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#82AAFF"
 			}
 		},
@@ -277,7 +308,9 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -286,7 +319,9 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -295,7 +330,9 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				// TODO change this color ⬇
+				// Is this necessary?
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -304,6 +341,7 @@
 				"string.regexp"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#89DDFF"
 			}
 		},
@@ -313,6 +351,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#89DDFF"
 			}
 		},
@@ -335,6 +374,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
+				// TODO change this color ⬇
 				"foreground": "#82AAFF"
 			}
 		},
@@ -354,6 +394,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C792EA"
 			}
 		},
@@ -363,6 +404,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#FFCB6B"
 			}
 		},
@@ -372,6 +414,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#F78C6C"
 			}
 		},
@@ -381,6 +424,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#FF5370"
 			}
 		},
@@ -390,6 +434,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C17E70"
 			}
 		},
@@ -399,6 +444,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#82AAFF"
 			}
 		},
@@ -408,6 +454,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#f07178"
 			}
 		},
@@ -417,6 +464,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C792EA"
 			}
 		},
@@ -426,6 +474,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C3E88D"
 			}
 		},
@@ -436,6 +485,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#EEFFFF"
 			}
 		},
@@ -445,6 +495,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C792EA"
 			}
 		},
@@ -454,6 +505,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#65737E"
 			}
 		},
@@ -465,6 +517,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#C3E88D"
 			}
 		},
@@ -475,6 +528,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
+				// TODO change this color ⬇
 				"foreground": "#f07178"
 			}
 		},
@@ -486,6 +540,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
+				// TODO change this color ⬇
 				"foreground": "#f07178"
 			}
 		},
@@ -501,6 +556,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
+				// TODO change this color ⬇
 				"foreground": "#f07178"
 			}
 		},
@@ -511,6 +567,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
+				// TODO change this color ⬇
 				"foreground": "#F78C6C"
 			}
 		},
@@ -520,6 +577,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"foreground": "#65737E"
 			}
 		},
@@ -529,6 +587,7 @@
 				"markup.quote"
 			],
 			"settings": {
+				// TODO change this color ⬇
 				"fontStyle": "italic"
 			}
 		},
