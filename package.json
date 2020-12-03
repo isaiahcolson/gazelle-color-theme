@@ -1,0 +1,21 @@
+{
+    "name": "gazelle-theme",
+    "displayName": "Gazelle Theme",
+    "description": "Dark theme from the plains of Franklin, TN.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gazelle Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gazelle Theme-color-theme.json"
+            }
+        ]
+    }
+}
