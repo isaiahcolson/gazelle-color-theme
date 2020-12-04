@@ -13,6 +13,41 @@
 		"activityBar.activeFocusBorder": "#00b2f6",
 		// editor
 		"editor.background": "#001e38",
+		"editor.foreground": "#16a597",
+		"editorLineNumber.foreground": "#69757a",
+		"editorLineNumber.activeForeground": "#69757a",
+		"editorCursor.foreground": "#f5f7f8",
+		"editor.selectionBackground": "#61d5ff40",
+		"editor.inactiveSelectionBackground": "#61d5ff20",
+		"editor.selectionHighlightBackground": "#61d5ff30",
+		"editor.wordHighlightBackground": "#f863b760",
+		"editor.wordHighlightStrongBackground": "#f863b770",
+		"editor.findMatchBackground": "#e66f2080",
+		"editor.findMatchHighlightBackground": "#e66f2050",
+		"editor.hoverHighlightBackground": "#f863b770",
+		"editor.lineHighlightBackground": "#00356160",
+		"editor.lineHighlightBorder": "#00447740",
+		"editor.rangeHighlightBackground": "#00356160",
+		"editorWhitespace.foreground": "#00437790",
+		"editorIndentGuide.background": "#00437790",
+		"editorIndentGuide.activeBackground": "#005b98f1",
+		"editorRuler.foreground": "#005b98f1",
+		"editorCodeLens.foreground": "#8e999e",
+		"editorLightBulb.foreground": "#fcd214",
+		"editorBracketMatch.background": "#003561",
+		"editorBracketMatch.border": "#005b98",
+		"editor.foldBackground": "#00356150",
+		"editorOverviewRuler.border": "#004477",
+		"editorOverviewRuler.incomingContentForeground": "#f863b7",
+		"editorOverviewRuler.currentContentForeground": "#67f5e2",
+		"editorError.foreground": "#ff0000",
+		"editorWarning.foreground": "#e66f20",
+		"editorInfo.foreground": "#fcd214",
+		"editorGutter.background": "#00224050",
+		"editorGutter.modifiedBackground": "#0091d9",
+		"editorGutter.addedBackground": "#588f1a",
+		"editorGutter.deletedBackground": "#e64b40",
+		"editorGutter.foldingControlForeground": "#f5f7f8",
 		// sideBar
 		"sideBar.background": "#0b1e2e",
 		"sideBar.foreground": "#8e999e",
@@ -34,7 +69,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#69757a"
+				"foreground": "#8e999e"
 			}
 		},
 		{
@@ -97,9 +132,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
-				"foreground": "#00ff37"
+				"foreground": "#feb881"
 			}
 		},
 		{
