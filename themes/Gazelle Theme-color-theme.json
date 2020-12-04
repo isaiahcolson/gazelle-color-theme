@@ -66,6 +66,15 @@
 		"editorHoverWidget.foreground": "#f5f7f8",
 		"editorHoverWidget.background": "#002342",
 		"editorHoverWidget.border": "#0073b9",
+		// minimap
+		"minimap.background": "#002342",
+		"minimap.findMatchHighlight": "#2de0c860",
+		"minimap.selectionHighlight": "#67f5e2",
+		"minimap.errorHighlight": "#ff0000",
+		"minimap.warningHighlight": "#fcd214",
+		"minimapSlider.background": "#0073b920",
+		"minimapSlider.hoverBackground": "#0073b940",
+		"minimapSlider.activeBackground": "#0073b960",
 		// sideBar
 		"sideBar.background": "#0b1e2e",
 		"sideBar.foreground": "#8e999e",
@@ -75,8 +84,6 @@
 		"sideBarSectionHeader.background": "#0b1e2e",
 		"sideBarSectionHeader.foreground": "#b6bec2",
 		"sideBarSectionHeader.border": "#112e47",
-		// minimap
-		"minimap.background": "#002342"
 	},
 	"tokenColors": [
 		{
