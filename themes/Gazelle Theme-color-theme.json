@@ -11,6 +11,12 @@
 		"activityBarBadge.foreground": "#f5f7f8",
 		"activityBar.activeBorder": "#f5f7f8",
 		"activityBar.activeFocusBorder": "#00b2f6",
+		// breadcrumbs
+		"breadcrumb.activeSelectionForeground": "#f5f7f8",
+		"breadcrumb.background": "#001e38",
+		"breadcrumb.focusForeground": "#00b2f6",
+		"breadcrumb.foreground": "#8e999e",
+		"breadcrumbPicker.background": "#001e38",
 		// editor
 		"editor.background": "#001e38",
 		"editor.foreground": "#16a597",
