@@ -103,6 +103,16 @@
 		"sideBarSectionHeader.background": "#0b1e2e",
 		"sideBarSectionHeader.foreground": "#b6bec2",
 		"sideBarSectionHeader.border": "#112e47",
+		// statusBar
+		"statusBar.background": "#e66f20",
+		"statusBar.foreground": "#f5f7f8",
+		"statusBar.noFolderBackground": "#e66f20",
+		"statusBar.noFolderForeground": "#f5f7f8",
+		"statusBarItem.activeBackground": "#c95a14",
+		"statusBarItem.hoverBackground": "#f58331",
+		"statusBarItem.prominentBackground": "#e66f20",
+		"statusBarItem.prominentForeground": "#f5f7f8",
+		"statusBarItem.prominentHoverBackground": "#f58331"
 	},
 	"tokenColors": [
 		{
