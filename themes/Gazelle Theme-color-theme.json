@@ -72,6 +72,14 @@
 		"editorHoverWidget.foreground": "#f5f7f8",
 		"editorHoverWidget.background": "#002342",
 		"editorHoverWidget.border": "#0073b9",
+		// editorGroup
+		"editorGroup.border": "#0073b9",
+		"editorGroup.dropBackground": "#003561",
+		"editorGroup.emptyBackground": "#001e38",
+		"editorGroupHeader.border": "#001e38",
+		"editorGroupHeader.noTabsBackground": "#00356199",
+		"editorGroupHeader.tabsBackground": "#001e38",
+		"editorGroupHeader.tabsBorder": "#001e38",
 		// minimap
 		"minimap.background": "#002342",
 		"minimap.findMatchHighlight": "#2de0c860",
@@ -112,7 +120,27 @@
 		"statusBarItem.hoverBackground": "#f58331",
 		"statusBarItem.prominentBackground": "#e66f20",
 		"statusBarItem.prominentForeground": "#f5f7f8",
-		"statusBarItem.prominentHoverBackground": "#f58331"
+		"statusBarItem.prominentHoverBackground": "#f58331",
+		// tab
+		"tab.activeBackground": "#003561",
+		"tab.activeBorder": "#004477",
+		"tab.activeBorderTop": "#004477",
+		"tab.activeForeground": "#f5f7f8",
+		"tab.border": "#004477",
+		"tab.hoverBackground": "#003561",
+		"tab.hoverBorder": "#00b2f6",
+		"tab.hoverForeground": "#f5f7f8",
+		"tab.inactiveBackground": "#002342",
+		"tab.inactiveForeground": "#8e999e",
+		"tab.lastPinnedBorder": "#fcd214",
+		"tab.unfocusedActiveBackground": "#002342",
+		"tab.unfocusedActiveForeground": "#d5d9db",
+		"tab.unfocusedActiveModifiedBorder": "#00b2f6",
+		"tab.unfocusedHoverBackground": "#003561",
+		"tab.unfocusedHoverBorder": "#00b2f6",
+		"tab.unfocusedHoverForeground": "#f5f7f8",
+		"tab.unfocusedInactiveBackground": "#002342",
+		"tab.unfocusedInactiveForeground": "#8e999e",
 	},
 	"tokenColors": [
 		{
