@@ -444,8 +444,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				// NOTE not sure what this does
-				"foreground": "#ff0000"
+				"foreground": "#35bd59"
 			}
 		},
 		{
@@ -454,8 +453,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				// NOTE not sure what this does
-				"foreground": "#ff0000"
+				"foreground": "#e64b40"
 			}
 		},
 		{
