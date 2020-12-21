@@ -221,7 +221,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ed3d9f"
+				"foreground": "#f863b7"
 			}
 		},
 		{
@@ -232,7 +232,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#61d5ff"
+				"foreground": "#2de0c8"
 			}
 		},
 		{
@@ -280,7 +280,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ff93cf"
+				"foreground": "#5ae072"
 			}
 		},
 		{
@@ -295,7 +295,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#35bd59"
+				"foreground": "#f5f7f8"
 			}
 		},
 		{
@@ -401,8 +401,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// NOTE not sure what this does
-				"foreground": "#f59de2"
+				// NOTE this is overwritten by the previous color
+				// "foreground": "#fcd214"
 			}
 		},
 		{
