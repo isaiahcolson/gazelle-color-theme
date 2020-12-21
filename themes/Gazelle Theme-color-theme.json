@@ -402,7 +402,7 @@
 			"settings": {
 				"fontStyle": "italic",
 				// NOTE not sure what this does
-				"foreground": "#ff0000"
+				"foreground": "#f59de2"
 			}
 		},
 		{
