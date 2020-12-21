@@ -80,6 +80,23 @@
 		"editorGroupHeader.noTabsBackground": "#00356199",
 		"editorGroupHeader.tabsBackground": "#001e38",
 		"editorGroupHeader.tabsBorder": "#001e38",
+		// input
+		"input.background": "#002342",
+		"input.border": "#0073b9",
+		"input.foreground": "#f5f7f8",
+		"input.placeholderForeground": "#8e999e",
+		"inputOption.activeBackground": "#003561",
+		"inputOption.activeBorder": "#8e999e50",
+		"inputOption.activeForeground": "#8e999e",
+		"inputValidation.errorBackground": "#821d1a",
+		"inputValidation.errorBorder": "#e64b40",
+		"inputValidation.errorForeground": "#f5f7f8",
+		"inputValidation.warningBackground": "#805203",
+		"inputValidation.warningBorder": "#fcd214",
+		"inputValidation.warningForeground": "#f5f7f8",
+		// list
+		"list.hoverBackground": "#002342",
+		"list.hoverForeground": "#f5f7f8",
 		// minimap
 		"minimap.background": "#002342",
 		"minimap.findMatchHighlight": "#2de0c860",
