@@ -95,8 +95,22 @@
 		"inputValidation.warningBorder": "#fcd214",
 		"inputValidation.warningForeground": "#f5f7f8",
 		// list
+		"list.activeSelectionBackground": "#003561",
+		"list.activeSelectionForeground": "#ade9ff",
+		"list.dropBackground": "#003561",
+		"list.errorForeground": "#fa7c69",
+		"list.filterMatchBackground": "#0073b9",
+		"list.filterMatchBorder": "#f5f7f8",
+		"list.focusBackground": "#003561",
+		"list.focusForeground": "#f5f7f8",
+		"list.highlightForeground": "#00b2f6",
 		"list.hoverBackground": "#002342",
 		"list.hoverForeground": "#f5f7f8",
+		"list.inactiveFocusBackground": "#003561",
+		"list.inactiveSelectionBackground": "#002342",
+		"list.inactiveSelectionForeground": "#00b2f6",
+		"listFilterWidget.background": "#0073b9",
+		"listFilterWidget.noMatchesOutline": "#f5f7f8",
 		// minimap
 		"minimap.background": "#002342",
 		"minimap.findMatchHighlight": "#2de0c860",
@@ -188,7 +202,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				// NOTE not sure what this does
+				// NOTE this is meant to be bright red for errors
 				"foreground": "#ff0000"
 			}
 		},
@@ -232,7 +246,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#2de0c8"
+				"foreground": "#5ae072"
 			}
 		},
 		{
@@ -295,7 +309,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f5f7f8"
+				"foreground": "#16a597"
 			}
 		},
 		{
