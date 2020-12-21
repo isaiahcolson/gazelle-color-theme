@@ -161,7 +161,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fcd214"
+				"foreground": "#f58331"
 			}
 		},
 		{
@@ -171,8 +171,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#53ff53"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -183,7 +183,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#5ae072"
+				// NOTE this gets overwritten by the following color
+				// "foreground": "#ff9c8c"
 			}
 		},
 		{
@@ -214,7 +215,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#feb881"
+				"foreground": "#61d5ff"
 			}
 		},
 		{
@@ -227,7 +228,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00b6c7"
+				"foreground": "#61d5ff"
 			}
 		},
 		{
@@ -236,7 +237,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#2de0c8"
+				"foreground": "#faab19"
 			}
 		},
 		{
@@ -246,9 +247,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
-				"foreground": "#ff0000"
+				"foreground": "#61d5ff"
 			}
 		},
 		{
@@ -264,7 +263,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#b69df5"
+				"foreground": "#ff93cf"
 			}
 		},
 		{
@@ -295,7 +294,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#f26552"
+				"foreground": "#fcd214"
 			}
 		},
 		{
@@ -304,9 +303,8 @@
 				"support.type"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
-				"foreground": "#ff0000"
+				// NOTE this gets overwritten by former color
+				// "foreground": "#fcd214"
 			}
 		},
 		{
@@ -320,8 +318,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#ff0000"
+				// NOTE this gets overwritten by former color
+				// "foreground": "#fcd214"
 			}
 		},
 		{
@@ -332,8 +330,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -344,8 +341,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -356,8 +352,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -368,8 +363,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -379,9 +373,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
-				"foreground": "#ff0000"
+				"foreground": "#fcd214"
 			}
 		},
 		{
@@ -392,8 +384,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -403,8 +394,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#FFCB6B"
+				"foreground": "#00d6e6"
 			}
 		},
 		{
@@ -413,8 +403,8 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#82AAFF"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -423,8 +413,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -434,8 +423,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -445,8 +433,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				// Is this necessary?
+				// NOTE not sure what this does
 				"foreground": "#ff0000"
 			}
 		},
@@ -456,8 +443,8 @@
 				"string.regexp"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#89DDFF"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -466,8 +453,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#89DDFF"
+				"foreground": "#ff93cf"
 			}
 		},
 		{
@@ -489,8 +475,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// TODO change this color ⬇
-				"foreground": "#82AAFF"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -500,7 +486,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -509,8 +496,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C792EA"
+				"foreground": "#0091d9"
 			}
 		},
 		{
@@ -519,8 +505,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#FFCB6B"
+				"foreground": "#00d6e6"
 			}
 		},
 		{
@@ -529,8 +514,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#F78C6C"
+				"foreground": "#00b2f6"
 			}
 		},
 		{
@@ -539,8 +523,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#FF5370"
+				"foreground": "#3bebf5"
 			}
 		},
 		{
@@ -549,8 +532,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C17E70"
+				"foreground": "#61d5ff"
 			}
 		},
 		{
@@ -559,8 +541,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#82AAFF"
+				"foreground": "#75f8fc"
 			}
 		},
 		{
@@ -569,8 +550,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#f07178"
+				"foreground": "#ade9ff"
 			}
 		},
 		{
@@ -579,8 +559,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C792EA"
+				"foreground": "#adffff"
 			}
 		},
 		{
@@ -589,8 +568,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C3E88D"
+				"foreground": "#adfff4"
 			}
 		},
 		{
@@ -600,8 +578,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#EEFFFF"
+				"foreground": "#d5d9db"
 			}
 		},
 		{
@@ -610,8 +587,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C792EA"
+				"foreground": "#d5d9db"
 			}
 		},
 		{
@@ -620,8 +596,8 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#65737E"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -632,8 +608,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#C3E88D"
+				"foreground": "#fcd214"
 			}
 		},
 		{
@@ -643,8 +618,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// TODO change this color ⬇
-				"foreground": "#f07178"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -655,8 +630,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				// TODO change this color ⬇
-				"foreground": "#f07178"
+				"foreground": "#e66f20"
 			}
 		},
 		{
@@ -671,8 +645,8 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				// TODO change this color ⬇
-				"foreground": "#f07178"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -682,8 +656,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				// TODO change this color ⬇
-				"foreground": "#F78C6C"
+				"foreground": "#61d5ff"
 			}
 		},
 		{
@@ -692,8 +665,8 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				// TODO change this color ⬇
-				"foreground": "#65737E"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -702,7 +675,6 @@
 				"markup.quote"
 			],
 			"settings": {
-				// TODO change this color ⬇
 				"fontStyle": "italic"
 			}
 		},
@@ -712,7 +684,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#1cc8b4"
 			}
 		},
 		{
@@ -721,7 +693,8 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -730,7 +703,8 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -739,7 +713,8 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				// NOTE not sure what this does
+				"foreground": "#ff0000"
 			}
 		},
 		{
