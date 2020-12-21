@@ -22,7 +22,7 @@ If you are opening a pull request, please include a screenshot that shows before
 These may not apply to you, so don't worry about what is posted in this section.
 
 1. Increment the version number in **package.json**.
-2. Use MAJOR.MINOR.PATH numbering system.
+2. Use MAJOR.MINOR.PATCH numbering system.
 
 ## If You Don't Like Something
 If you hate everything about this, then don't use it...
