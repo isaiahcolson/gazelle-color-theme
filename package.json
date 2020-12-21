@@ -1,14 +1,25 @@
 {
     "name": "gazelle-theme",
+    "version": "0.0.1",
     "displayName": "Gazelle Theme",
     "description": "Dark theme from the plains of Franklin, TN.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.51.0"
+    "publisher" : "isaiahcolson",
+    "icon": "images/gazelle-theme-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isaiahcolson/gazelle-color-theme"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Color"
+    ],
+    "engines": {
+        "vscode": "^1.51.0"
+    },
     "contributes": {
         "themes": [
             {
