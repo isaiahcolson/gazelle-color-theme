@@ -372,8 +372,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				// NOTE not sure what this does
-				"foreground": "#ff0000"
+				"foreground": "#fcd214"
 			}
 		},
 		{
@@ -472,7 +471,6 @@
 				"string.regexp"
 			],
 			"settings": {
-				// NOTE not sure what this does
 				"foreground": "#61d5ff"
 			}
 		},
