@@ -1,6 +1,6 @@
 {
     "name": "kraken-theme",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "displayName": "Kraken Theme",
     "description": "A dark theme from the cold depths.",
     "publisher" : "isaiahcolson",
@@ -15,6 +15,7 @@
     "keywords": [
         "VSCode",
         "Themes",
+        "Dark",
         "Color"
     ],
     "engines": {
