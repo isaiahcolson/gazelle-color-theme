@@ -1,13 +1,13 @@
 {
-    "name": "gazelle-theme",
+    "name": "kraken-theme",
     "version": "0.0.3",
-    "displayName": "Gazelle Theme",
-    "description": "Dark theme from the plains of Franklin, TN.",
+    "displayName": "Kraken Theme",
+    "description": "A dark theme from the cold depths.",
     "publisher" : "isaiahcolson",
-    "icon": "images/gazelle-theme-icon.png",
+    "icon": "images/kraken-theme-icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/isaiahcolson/gazelle-color-theme"
+        "url": "https://github.com/isaiahcolson/kraken-color-theme"
     },
     "categories": [
         "Themes"
@@ -23,9 +23,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gazelle Theme",
+                "label": "Kraken Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Gazelle Theme-color-theme.json"
+                "path": "./themes/Kraken Theme-color-theme.json"
             }
         ]
     }
