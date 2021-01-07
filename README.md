@@ -1,11 +1,11 @@
-# Gazelle Theme for VS Code
+# Kraken Theme for VS Code
 
-![Image of Gazelle Theme](./images/screenshot.png)
+![Image of Kraken Theme](./images/screenshot.png)
 ## Installation
 1. Open Extensions sidebar panel in VS Code.
-2. Search for `Gazelle Theme` - find the one by **Isaiah Colson**.
+2. Search for `Kraken Theme` - find the one by **Isaiah Colson**.
 3. Click **install** to install this theme.
-4. Code > Preferences > Color Theme > **Gazelle Theme**
+4. Code > Preferences > Color Theme > **Kraken Theme**
 
 ## Contributing
 To contribute to this theme:
@@ -13,8 +13,8 @@ To contribute to this theme:
 1. Clone this repo and open in VS Code
 2. Open run **View > Run** or shortcut `⇧⌘D`.
 3. This will open a side panel where you can press the **play button** that will 'Start Debugging'.
-4. Make changes in **themes > Gazelle Theme-color-theme.json**. As you make changes to specific colors, you will see an update in the new editor window that opened in step 3.
-5. Please reference "Gazelle Design Theme" for colors to use. If you don't know what that is, then this is not the right theme for you to be contributing on.
+4. Make changes in **themes > Kraken Theme-color-theme.json**. As you make changes to specific colors, you will see an update in the new editor window that opened in step 3.
+5. Please reference "Kraken Design Theme" for colors to use. If you don't know what that is, then this is not the right theme for you to be contributing on.
 
 If you are opening a pull request, please include a screenshot that shows before and after.
 
