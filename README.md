@@ -3,7 +3,7 @@
 ![Image of Kraken Theme](./images/screenshot.png)
 ## Installation
 1. Open Extensions sidebar panel in VS Code.
-2. Search for `Kraken Theme` - find the one by **Isaiah Colson**.
+2. Search for `Kraken Theme` - find the one by **isaiahcolson**.
 3. Click **install** to install this theme.
 4. Code > Preferences > Color Theme > **Kraken Theme**
 
